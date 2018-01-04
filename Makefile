@@ -1,3 +1,3 @@
 
 test:
-	python -m pytest nn_scratch
+	python -m pytest isingpy
